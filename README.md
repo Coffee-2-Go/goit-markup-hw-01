@@ -1,4 +1,4 @@
-# Tier 2. Homework. Module 1. Basics of HTML
+# Tier 2. Module 1. Homework 1 - HTML basics
 
 * Create repository `goit-markup-hw-01`.
 * Complete the HTML markup of the layout of the [homework page #1](https://www.figma.com/file/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?type=design&node-id=0-1&mode=design&t=HqslgV0OjDOknzIj-0), without CSS.
